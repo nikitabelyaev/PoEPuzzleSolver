@@ -1,0 +1,4 @@
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\bin\Release\Logic.dll
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\bin\Release\Logic.pdb
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\obj\Release\Logic.dll
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\obj\Release\Logic.pdb

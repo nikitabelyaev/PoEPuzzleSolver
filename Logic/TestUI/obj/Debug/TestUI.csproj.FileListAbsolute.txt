@@ -1,0 +1,11 @@
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\bin\Debug\TestUI.exe.config
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\bin\Debug\TestUI.exe
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\bin\Debug\TestUI.pdb
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\bin\Debug\Logic.dll
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\bin\Debug\Logic.pdb
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\obj\Debug\TestUI.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\obj\Debug\TestUI.Form1.resources
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\obj\Debug\TestUI.Properties.Resources.resources
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\obj\Debug\TestUI.csproj.GenerateResource.Cache
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\obj\Debug\TestUI.exe
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\TestUI\obj\Debug\TestUI.pdb

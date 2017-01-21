@@ -1,0 +1,5 @@
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\bin\Debug\Logic.dll
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\bin\Debug\Logic.pdb
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\obj\Debug\Logic.dll
+C:\Users\Nikita\Google Drive\PuzzleSolver\Logic\Logic\obj\Debug\Logic.pdb
